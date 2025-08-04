@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brayanenribrni8866combr-ops.github.io/site-rilex/sitemap.xml
